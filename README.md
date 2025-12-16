@@ -64,6 +64,7 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 <img width="677" height="734" alt="image" src="https://github.com/user-attachments/assets/b46e8c9c-78dd-452c-b583-5d4d9a9a1a89" />
 
 **V. Conclusion**
+
 In conclusion, my exploration of the eCommerce dataset using SQL on Google BigQuery based on the Google Analytics dataset has revealed several interesting insights.
 By exploring eCommerce dataset, I have gained valuable information about total visits, pageview, transactions, bounce rate, and revenue per traffic source,.... which could inform future business decisions.
 To deep dive into the insights and key trends, the next step will visualize the data with some software like Power BI,Tableau,...
